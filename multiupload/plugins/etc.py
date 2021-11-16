@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) oVoIndia | oVo-HxBots
+# (c) oVoIndia | oVo-BlueWhale Bots
 
+import os
 import asyncio, random
 from config import Config
 from telethon import events, Button
@@ -26,7 +27,7 @@ async def start(event):
 	else:
 		await anjana.send_file(event.chat_id, random.choice(s), reply_to=event)
 		await event.reply(f"Hey [{xx.first_name}]({xx.id}), I am **MultiUploader**", buttons=[
-				Button.url('Support Chat 💭', 't.me/hxsupport')
+				Button.url('Support Chat 💭', 't.me/bluewhalegroup')
 			])
 
 
@@ -50,7 +51,7 @@ async def help(event):
 ● `/fileio` - Upload files to FileIO
 ● `/mixdrop` - Upload files to MixDrop
 ✦ **Powered By [oVoIndia]**(https://github.com/oVoIndia)
-✦ Made with ♥️ by [HxBots](t.me/hxbots)'''
+✦ Made with ♥️ by [BlueWhale Bots](t.me/bluewhalebots)'''
 		await event.reply(helpmsg, buttons=[
-				Button.url('Support Chat 💭', 't.me/hxsupport')
+				Button.url('Support Chat 💭', 't.me/bluewhalegroup')
 			], link_preview=False)
