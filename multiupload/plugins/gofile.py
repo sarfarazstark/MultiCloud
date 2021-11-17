@@ -59,7 +59,7 @@ Server: GoFile
 NOTE: Files will be deleted after 10 days of inactivity'''
 	await msg.edit(hmm, buttons=(
 		[Button.url('📦 Download', r2.json()["data"]["downloadPage"])],
-		[Button.url('Support Chat 💭', 't.me/hxsupport')]
+		[Button.url('Support Chat 💭', 't.me/bluewhalegroup')]
 		))
 
 	os.remove(result.name)
