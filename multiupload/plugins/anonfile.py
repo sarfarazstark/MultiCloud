@@ -40,8 +40,8 @@ FileName: {
 }
 FileSize: {
         humanbytes(amjana.file.size)
-}#
-ANONFILE ''
+}
+#ANONFILE ''
 '
 await anjana.send_message(Config.LOG_CHANNEL, reqmsg)
 
