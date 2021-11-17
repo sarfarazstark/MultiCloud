@@ -2,7 +2,7 @@
 
 #### _A Bot to Upload files to Many Cloud services. Powered by Telethon_
 
-_🎯 Follow me and star this repo for more telegram bots. @HxBots
+_🎯 Follow me and star this repo for more telegram bots. @BlueWhaleBots
 
 <p align="center">
   <img src="https://telegra.ph/file/61f3065220dbbbcc6943e.jpg">
@@ -30,9 +30,5 @@ _🎯 Follow me and star this repo for more telegram bots. @HxBots
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
 
-## 🚩 Credits
-- [Lucifeermorningstar](https://github.com/lucifeermorningstar) for Telethon Bot Base. (A Daisy Owner)
-- [Amarnath C](https://github.com/AmarnathCJD) for Force Sub
-- [LonamiWebs](https://github.com/LonamiWebs) for Telethon.
-- [oVo-HxBots](https://github.com/oVo-HxBots) for this Project 🤪
+
 
