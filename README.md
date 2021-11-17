@@ -28,7 +28,7 @@ _🎯 Follow me and star this repo for more telegram bots. @BlueWhaleBots
  - CHNAME: Channel username for fsub without @.
  - OWNRID: OwnerId for commands (may be in future).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sarfarazstark/MultiCloud)
 
 
 
