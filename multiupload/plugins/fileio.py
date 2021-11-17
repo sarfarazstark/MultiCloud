@@ -60,7 +60,7 @@ Server: FileIO
 NOTE: Once the download is complete, The file will be deleted from our servers.'''
 	await msg.edit(hmm, buttons=(
 		[Button.url('📦 Download', r.json()['link'])],
-		[Button.url('Support Chat 💭', 't.me/hxsupport')]
+		[Button.url('Support Chat 💭', 't.me/bluewhalegroup')]
 		))
 
 	os.remove(result.name)
