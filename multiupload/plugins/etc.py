@@ -50,7 +50,6 @@ async def help(event):
 ● `/tninja` - Upload files to TmNinja
 ● `/fileio` - Upload files to FileIO
 ● `/mixdrop` - Upload files to MixDrop
-✦ **Powered By [oVoIndia]**(https://github.com/oVoIndia)
 ✦ Made with ♥️ by [BlueWhale Bots](t.me/bluewhalebots)'''
 		await event.reply(helpmsg, buttons=[
 				Button.url('Support Chat 💭', 't.me/bluewhalegroup')
